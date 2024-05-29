@@ -29,7 +29,7 @@ Tecnologias
 Tailwind CSS
 
 VisualizaçãoVocê pode visualizar o projeto em:
-https://rodrigodevbnu.github.io/Cardapio-Restaurante/Contribuição
+https://rodrigodevbnu.github.io/Cardapio-Restaurante/
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull 
 request ou relatar problemas.
